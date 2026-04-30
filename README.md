@@ -1,4 +1,4 @@
-# 🛒 Amazon Clone (React Beginner Project)
+# 🛒 Amazon Cards (React Beginner Project)
 
 This is a simple Amazon-style product listing UI built using React.
 The project focuses on understanding core React concepts through a hands-on mini clone.
