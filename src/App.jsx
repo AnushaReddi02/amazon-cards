@@ -4,7 +4,7 @@ import './App.css'
 function App(){
   return(
     <>
-      <h2>BLOCKBUSTER DEALS | SHOP NOW</h2>
+      <h2 style={{margin:"50px"}}>BLOCKBUSTER DEALS | SHOP NOW</h2>
       <ProductTab/>
     </>
   )

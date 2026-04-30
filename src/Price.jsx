@@ -9,6 +9,8 @@ export default function Price({oldPrice,newPrice}){
         backgroundColor : "#e0c367",
         height : "40px",
         color : "white",
+        borderBottomLeftRadius : "14px",
+        borderBottomRightRadius : "14px"
     };
     return(
         <div style={styles}>
